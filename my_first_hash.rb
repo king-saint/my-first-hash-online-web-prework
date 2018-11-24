@@ -1,7 +1,6 @@
 def my_hash
     the_hash = {"key" => "value", "another_key" => "another value"}
     the_hash
-  
 end
 
 def shipping_manifest
